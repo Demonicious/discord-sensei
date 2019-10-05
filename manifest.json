@@ -1,7 +1,7 @@
 {
-    "name": "Discord.js Documentation",
-    "short_name": "Discord.js Docs",
-    "theme_color": "#00b2e8",
+    "name": "Discord-sensei Documentation",
+    "short_name": "Sensei Docs",
+    "theme_color": "#5f5ac6",
     "background_color": "#2f3236",
     "display": "browser",
     "Scope": "/",
